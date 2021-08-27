@@ -6,6 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **DID IT RUN THOUGH?**
 
+1. Ordered List 1
+2. Ordered List 2
+3. Ordered List 3
+  1. sub 1
+  2. sub 2
+  3. sub 3
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
