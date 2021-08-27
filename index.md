@@ -20,6 +20,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+I think you should use an
+`<addr>` element here instead.
+
 ```markdown
 Syntax highlighted code block
 
