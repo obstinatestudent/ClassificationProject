@@ -7,11 +7,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 **DID IT RUN THOUGH?**
 
 1. Ordered List 1
-2. Ordered List 2
-3. Ordered List 3
+1. Ordered List 2
+1. Ordered List 3
   1. sub 1
   2. sub 2
   3. sub 3
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 ### Markdown
 
