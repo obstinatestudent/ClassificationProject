@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Classification Project
 
 You can use the [editor on GitHub](https://github.com/obstinatestudent/ClassificationProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
