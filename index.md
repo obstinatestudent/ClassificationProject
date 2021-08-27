@@ -23,7 +23,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-http://github.com/obstinatestudent - automatic!
+[My GitHub](http://github.com/obstinatestudent)
 
 [GitHub](http://github.com)
 
